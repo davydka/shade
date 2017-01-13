@@ -8,6 +8,8 @@ Fragment shader and optional texture are specified on command-line.
 Credits
 -------
 
+* Pishadertoy [](https://github.com/dff180/pishadertoy)
+
 * EGL class code by [Jon Macey](http://jonmacey.blogspot.de/2012/06/opengl-es-on-raspberry-pi-pt-3-creating.html)
 
 * Sample shaders from [ShaderToy](https://www.shadertoy.com) by Inigo 'iq' Quilez. Explore the ShaderToy website for additional shader and texture usage examples.

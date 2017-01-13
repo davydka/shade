@@ -3,7 +3,7 @@ CFLAGS=-c -g -Wall -O3  -I/opt/vc/include -I/opt/vc/include/interface/vcos/pthre
 LDFLAGS=-L/opt/vc/lib -lGLESv2 -lEGL -lopenmaxil -lbcm_host -lSOIL
 SOURCES=EGLConfig.cpp EGLWindow.cpp main.cpp MyGLWindow.cpp shader_utils.cpp
 OBJECTS=$(SOURCES:%.cpp=%.o)
-EXECUTABLE=pishadertoy
+EXECUTABLE=shadey
 
 all: $(SOURCES) $(EXECUTABLE)
 
